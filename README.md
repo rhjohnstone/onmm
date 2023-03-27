@@ -17,7 +17,7 @@ Run the app locally:
 lightning run app app.py --name onmm
 ```
 
-Run the app on the cloud:
+Run the app on the cloud (this requires you to have an account with credits, but I think you get some for free when you sign up):
 ```shell
 lightning run app app.py --name onmm --cloud
 ```
